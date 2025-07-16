@@ -1,10 +1,10 @@
 # FNP-SALES-ANALYSIS
 
 
-##Project Objective:
+## Project Objective:
 The sales analysis dashboard provides insights into overall sales performance, customer purchasing patterns, and product revenue contributions for informed decision-making and strategy planning.
 
-#Key Metrics Overview:
+## Key Metrics Overview:
 
 Total Orders: 1,000
 
@@ -16,9 +16,9 @@ Average Customer Spend: ₹3,520.98
 
 ## Performance Insights:
 
-Revenue Distribution by Occasions:
+### Revenue Distribution by Occasions:
 
-Top revenue-generating occasions:
+## Top revenue-generating occasions:
 
 Anniversary
 
@@ -28,7 +28,7 @@ Holi
 
 Least revenue: Diwali and Valentine’s Day
 
-Revenue by Product Category:
+# Revenue by Product Category:
 
 Highest revenue from Colors category (~₹10,00,000).
 
@@ -36,7 +36,7 @@ Soft Toys and Sweets also contribute significantly.
 
 Plants and Mugs have the lowest revenue contribution.
 
-Revenue by Hour (Order Time):
+# Revenue by Hour (Order Time):
 
 Peak order times: 6 AM – 10 AM and 5 PM – 8 PM.
 
@@ -48,7 +48,7 @@ Highest revenue months: March, July, and October.
 
 Lowest revenue months: April, May, June, and August.
 
-Top 5 Products by Revenue:
+## Top 5 Products by Revenue:
 
 Magman Set
 
@@ -60,13 +60,13 @@ Quia Gift
 
 Deserunt Box
 
-Top 10 Cities by Orders:
+## Top 10 Cities by Orders:
 
 Imphal and Dhanbad recorded the highest number of orders.
 
 North Dumdum and Bilaspur recorded the least.
 
-Observations & Recommendations:
+## Observations & Recommendations:
 
 Product Strategy: Focus marketing and stock management around Colors, Soft Toys, and Sweets categories.
 
