@@ -1,7 +1,7 @@
 # FNP-SALES-ANALYSIS
-###Executive Summary: Sales Analysis Dashboard
 
-Project Objective:
+
+##Project Objective:
 The sales analysis dashboard provides insights into overall sales performance, customer purchasing patterns, and product revenue contributions for informed decision-making and strategy planning.
 
 #Key Metrics Overview:
