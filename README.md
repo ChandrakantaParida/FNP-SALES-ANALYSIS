@@ -4,7 +4,7 @@
 Project Objective:
 The sales analysis dashboard provides insights into overall sales performance, customer purchasing patterns, and product revenue contributions for informed decision-making and strategy planning.
 
-Key Metrics Overview:
+#Key Metrics Overview:
 
 Total Orders: 1,000
 
